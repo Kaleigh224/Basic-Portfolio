@@ -4,7 +4,7 @@ header {
 }
 
 body {
-    background-color: #ffffff;
+    background-image: url(../images/wallpaper.jpg);
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
@@ -22,6 +22,7 @@ img {
 }
 #header {
     float: right;
+    background-color: #ffffff;
 }
 
 h2 {
@@ -50,4 +51,7 @@ clear: both;
 hr {
     margin-top: 20px;
     margin-bottom: 20px;
+}
+#container_inner {
+    background-color: #ffffff;
 }
