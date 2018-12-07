@@ -27,7 +27,16 @@ h2 {
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
-h3 {
+strong {
     color: #4aaaa5;
     font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 30px;
+}
+.portfolio {
+    height: 150px;
+    width: 150px;
+}
+p {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
 }
