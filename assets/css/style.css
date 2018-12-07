@@ -47,3 +47,7 @@ content: "";
 display: block;
 clear: both;
 }
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
