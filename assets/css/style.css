@@ -68,7 +68,9 @@ footer {
     height: 75px;
     text-align: center;
     clear: both;
-    margin-bottom: 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 #about-me {
     background-image: url(../images/wallpaper2.jpg
